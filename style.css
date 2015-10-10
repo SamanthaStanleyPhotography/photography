@@ -1,0 +1,32 @@
+body {
+	font-family:"Open Sans Condensed", sans-serif;
+	color:#FFF;
+	background-color:#000;
+}
+
+#caption {
+	float:right;
+}
+
+#container {
+	width:700px;
+	margin:auto;
+	padding:none;
+}
+	
+#header img {
+	width:200px;
+	margin:50px 250px 50px 250px;
+}
+
+#post {
+	width:700px;
+	overflow:hidden;
+	margin:0px 0px 50px 0px;
+}
+	
+#post img {
+	width:700px;
+	margin:0px 0px 10px 0px;
+	pointer-events:none;
+}
