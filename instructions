@@ -1,0 +1,18 @@
+Sam’s Photo Blog Instructions
+To add a new photo:
+1.	Log in to postimage.org (username: stanleysphoto password: glycgs48)
+2.	Go to browse > (find the picture) > gallery: Sam’s Photo Blog > Upload It!
+3.	Leave the postimage.org window open!!!!
+4.	Log onto github.com (username: samanthastanleyphotography password: GLycgs48) and go to Your Repositories > photography > index.html > edit (pencil icon)
+5.	Copy the previous post and paste below <!—COPY THIS ONE BELOW --> 
+  <div id="post" oncontextmenu="return false;">
+    <img src="IMAGE URL">
+	  <div id="caption"><strong>TITLE</strong>&nbsp;&nbsp;//&nbsp;&nbsp;DATE</div>
+  </div>
+6.	Copy the “DIRECT LINK” from postimage.org and paste it between the quotes in place of IMAGE URL
+7.	Replace TITLE (between <strong> and </strong> with the title of the image.
+8.	Replace DATE (between <&nbsp; and </div>) with the date the picture was taken in the form 10.11.15
+9.	Scroll down to the bottom of the page and click the green Commit Changes button
+
+•	Every 12 months, log onto my.dot.tk (email: blondewithbangs@gmail.com password: mydottksnbvcxz) and renew your domain name
+•	Your website URL: samanthastanleyphotography.github.io/photography OR samanthastanleyphotography.tk
